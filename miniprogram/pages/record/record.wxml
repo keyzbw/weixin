@@ -1,0 +1,28 @@
+<!--miniprogram/pages/record/record.wxml-->
+<view class="container">
+<view><text>今日瞬间</text></view>
+
+
+<image class="video" src="/images/video2.png"></image>
+
+<view class="content">
+<view class="portrait-container">
+<image class="portrait" src="/images/portrait.png"></image>
+</view>
+
+<view class="text-container"> 
+<view class="text-list">
+<text style='float:left'>{{name}}</text>
+</view>
+<view class="text-list">
+<text>左边的女生告诉右边的男生他喝的不是咖啡，男生震惊了</text>
+</view>
+<view class="but-list">
+<image class="icon-right" src="/images/enjoyIcon.png"></image>
+<image class="icon-right" src="/images/informIcon.png"></image>
+<image class="icon-right" src="/images/commendIcon.png"></image>
+</view>
+</view>
+</view>
+
+</view>

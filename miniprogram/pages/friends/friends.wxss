@@ -1,0 +1,38 @@
+/* miniprogram/pages/friends/friends.wxss */
+.head{
+  height: 100rpx;
+  background: rgb(250, 249, 249);
+}
+.title{
+  float:left;
+  margin-left: 45%;
+  padding-top:25rpx;
+}
+.icon-right{
+margin:20rpx;
+height:65rpx;
+width: 65rpx;
+float: right;
+}
+.content{
+  margin:20rpx;
+}
+.list{
+  margin:20rpx;
+}
+.portrait{
+margin:20rpx;
+height:85rpx;
+width: 85rpx;
+float: left;
+}
+.name{
+  float:left;
+  padding-top:35rpx;
+}
+.line{
+  background: rgb(221, 221, 221);
+  width: 700rpx;
+  height: 1rpx;
+  float:left;
+}

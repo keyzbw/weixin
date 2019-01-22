@@ -1,0 +1,38 @@
+{
+  "cloud": true,
+  "pages": [
+    "pages/index/index",
+    "pages/record/record",
+    "pages/friends/friends",
+    "pages/set/set",
+    "pages/login/login",
+    "pages/register/register"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "瞬",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/record/record",
+        "text": "视频分享"
+      },
+      {
+        "pagePath": "pages/friends/friends",
+        "text": "好友"
+      },
+      {
+        "pagePath": "pages/set/set",
+        "text": "设置"
+      }
+    ]
+  }
+}

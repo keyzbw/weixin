@@ -1,0 +1,42 @@
+<!--miniprogram/pages/friends/friends.wxml-->
+<view class="head">
+<view class="title"><text>好友</text></view>
+<image class="icon-right" src="/images/addIcon.png"></image>
+</view>
+
+<view class="content">
+<view class="list">
+<image class="portrait" src="/images/portrait.png"></image>
+<view class="name"><text>Fun</text></view>
+<view class="line"></view>
+<view class="line"></view>
+</view>
+
+<view class="list">
+<image class="portrait" src="/images/portrait.png"></image>
+<view class="name"><text>Wang</text></view>
+<view class="line"></view>
+<view class="line"></view>
+</view>
+
+<view class="list">
+<image class="portrait" src="/images/portrait.png"></image>
+<view class="name"><text>Gan</text></view>
+<view class="line"></view>
+<view class="line"></view>
+</view>
+
+<view class="list">
+<image class="portrait" src="/images/portrait.png"></image>
+<view class="name"><text>Liang</text></view>
+<view class="line"></view>
+<view class="line"></view>
+</view>
+
+<view class="list">
+<image class="portrait" src="/images/portrait.png"></image>
+<view class="name"><text>Xin</text></view>
+<view class="line"></view>
+<view class="line"></view>
+</view>
+</view>

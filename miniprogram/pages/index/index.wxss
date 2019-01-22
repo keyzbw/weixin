@@ -1,0 +1,49 @@
+/* miniprogram/pages/index/index.wxss */
+.head{
+  height: 100rpx;
+  background: rgb(250, 249, 249);
+}
+.head2{
+  float: left;
+  height: 100rpx;
+  background: rgba(182, 182, 182, 0.034);
+}
+.icon-left{
+margin: 20rpx;
+height:65rpx;
+width: 65rpx;
+float: left;
+}
+.icon-right{
+margin:20rpx;
+height:65rpx;
+width: 65rpx;
+float: right;
+}
+.text-center{
+  float:left;
+  padding-top:25rpx;
+  margin-left:200rpx;
+}
+.text-left{
+  float:left;
+  padding-top:25rpx;
+}
+.container{
+  margin: 20rpx;
+}
+.content{
+margin:10rpx;
+}
+.video{
+  height: 400rpx;
+}
+.line{
+  background: rgb(221, 221, 221);
+  width: 700rpx;
+  height: 1rpx;
+  float:left;
+}
+.text{
+  text-align: center;
+}

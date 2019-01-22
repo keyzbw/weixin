@@ -1,0 +1,23 @@
+<!--miniprogram/pages/login/login.wxml-->
+<!--miniprogram/pages/set/set.wxml-->
+<view class="head">
+</view>
+<view class="content">
+<view class="list">
+<text class="text">用户名：</text>
+<input class="info" value="{{name}}"></input>
+</view>
+<view class="line"></view>
+
+<view class="list">
+<text class="text">密码：</text>
+<input class="info" value="{{password}}"></input>
+</view>
+<view class="line"></view>
+
+<view class="blank"></view>
+<view class="button-container">
+<button class="button">登录</button>
+<button class="button">注册</button>
+</view>
+</view>

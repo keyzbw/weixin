@@ -1,0 +1,42 @@
+/* miniprogram/pages/record/record.wxss */
+.container{
+  margin: 20rpx;
+}
+.content{
+margin:10rpx;
+}
+.video{
+  height: 400rpx;
+}
+.line{
+  background: rgb(221, 221, 221);
+  width: 700rpx;
+  height: 1rpx;
+  float:left;
+}
+.portrait-container{
+  float:left;
+  width: 125rpx;
+  margin: 10rpx;
+}
+.text-container{
+  width: 450rpx;
+  float:left;
+  margin: 10rpx;
+}
+.portrait{
+  height: 100rpx;
+  width: 100rpx;
+}
+.text-list{
+  float:left;
+}
+.but-list{
+  float:right;
+}
+.icon-right{
+margin:10rpx;
+height:50rpx;
+width: 50rpx;
+float: right;
+}

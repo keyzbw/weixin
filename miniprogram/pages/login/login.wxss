@@ -1,0 +1,45 @@
+/* miniprogram/pages/login/login.wxss */
+/* miniprogram/pages/set/set.wxss */
+.head{
+  height:450rpx;
+}
+.portrait{
+  margin-top: 150rpx;
+  margin-left: 250rpx;
+  width: 250rpx;
+  height: 250rpx;
+}
+.content{
+  margin: 20rpx;
+}
+.list{
+  margin: 10rpx;
+}
+.text{
+  padding-top: 30rpx;
+  float:left;
+}
+.info{
+  padding-top: 30rpx;
+  float:left;
+  text-align: center;
+}
+.line{
+  background: rgb(221, 221, 221);
+  width: 700rpx;
+  height: 1rpx;
+  float:left;
+}
+.blank{
+  height: 50rpx;
+}
+.button-container{
+  margin-top:100px; 
+}
+.button{
+  background: rgb(96, 96, 255);
+  margin-top: 20rpx;
+  color: white;
+  width: 250rpx;
+  height: 75rpx;
+}

@@ -1,0 +1,28 @@
+<!--miniprogram/pages/index/index.wxml-->
+<view class="head">
+<image class="icon-left" src="/images/selectIcon.png"></image>
+<view class="text-center"><text >2019,01,22</text></view>
+<image class="icon-right" src="/images/photoIcon.png"></image>
+</view>
+<view class="container">
+<view class="head2">
+<image class="icon-left" src="/images/calender.png"></image>
+<view class="text-left"><text>选择日期</text></view>
+</view>
+<view class="line"></view>
+
+<view class="list">
+<view class="text"><text>今日瞬间</text></view>
+<view class="content">
+<image class="video" src="/images/video2.png"></image>
+</view>
+<view class="line"></view>
+</view>
+
+<view class="list">
+<view class="text"><text>2019.01.21</text></view>
+<view class="content">
+<image class="video" src="/images/video1.png"></image>
+</view>
+</view>
+</view>
